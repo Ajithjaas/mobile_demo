@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/ajith/Documents/git_repos/mobile_demo/Mobile-Robot-Demo-with-Unity-ROS/ROS/build/gtest/googlemock/gtest/src -Wl,-rpath,/home/ajith/Documents/git_repos/mobile_demo/Mobile-Robot-Demo-with-Unity-ROS/ROS/build/gtest/googlemock/gtest/src -lpthread 

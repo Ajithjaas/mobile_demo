@@ -1,0 +1,2 @@
+freight_endpoint:ros_tcp_endpoint
+-DCATKIN_DEVEL_PREFIX=/home/ajith/Documents/git_repos/mobile_demo/Mobile-Robot-Demo-with-Unity-ROS/ROS/devel -DCMAKE_INSTALL_PREFIX=/home/ajith/Documents/git_repos/mobile_demo/Mobile-Robot-Demo-with-Unity-ROS/ROS/install -G Unix Makefiles

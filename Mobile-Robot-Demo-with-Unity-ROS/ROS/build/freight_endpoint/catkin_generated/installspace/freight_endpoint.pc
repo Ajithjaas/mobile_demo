@@ -1,0 +1,8 @@
+prefix=/home/ajith/Documents/git_repos/mobile_demo/Mobile-Robot-Demo-with-Unity-ROS/ROS/install
+
+Name: freight_endpoint
+Description: Description of freight_endpoint
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
